@@ -19,7 +19,9 @@
 | 1378 | Replace Employee ID with the Unique Identifier | [1378.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1378.SQL) | Easy |
 | 1581 | Customers Who Visited But Did Not Make Any Transactions | [1581.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1581.SQL) | Easy |
 | 1661 | Average Time of Process Per Machine | [1661.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1661.SQL) | Easy |
+| 1667 | Fix Names in a Table | [1667.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1667.SQL) | Easy |
 | 1683 | Invalid Tweets | [1683.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1683.SQL) | Easy |
 | 1757 | Recyclable and Low Fat Products | [1757.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1757.SQL) | Easy |
+| 2356 | Number of Unique Subjects Taught by Each Teacher | [2356.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/2356.SQL) | Easy|
 | 2799 | Count Complete Subarrays in an Array | [2799.py](https://github.com/awahl2/leetcode/blob/main/Other/2799.py) | Medium|
-| 1667 | Fix Names in a Table | [1667.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1667.SQL) | Easy |
+
