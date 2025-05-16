@@ -22,3 +22,4 @@
 | 1683 | Invalid Tweets | [1683.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1683.SQL) | Easy |
 | 1757 | Recyclable and Low Fat Products | [1757.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1757.SQL) | Easy |
 | 2799 | Count Complete Subarrays in an Array | [2799.py](https://github.com/awahl2/leetcode/blob/main/Other/2799.py) | Medium|
+| 1667 | Fix Names in a Table | [1667.SQL](https://github.com/awahl2/leetcode/blob/main/SQL_50/1667.SQL) | Easy |
